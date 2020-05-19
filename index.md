@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Sobre el programa
-cover_url: https://anochecer.net/fondo.jpg
+cover_url: /fondo.jpg
 position: 1
 navlevel: header
 navtitle: el programa
