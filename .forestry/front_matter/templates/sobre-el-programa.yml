@@ -1,0 +1,36 @@
+---
+pages:
+- el-equipo.md
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: page
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: position
+  label: Position
+  type: text
+  hidden: false
+  default: header
+- name: navlevel
+  label: Navlevel
+  type: text
+  hidden: false
+  default: ''
+- name: navtitle
+  label: Navtitle
+  type: text
+  hidden: false
+  default: ''
+- name: cover_url
+  label: Cover url
+  type: text
+  hidden: false
+  default: ''
+- type: image_gallery

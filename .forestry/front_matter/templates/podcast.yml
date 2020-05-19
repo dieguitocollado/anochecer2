@@ -1,0 +1,26 @@
+---
+pages:
+- _posts/2018-02-06-ep-1-artavazd-peleshyan.md
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+  description: Título
+- type: text
+  name: layout
+  label: layout
+  default: post
+- type: tag_list
+  name: tags
+  label: tags
+- type: select
+  name: category
+  config:
+    source:
+      type: simple
+    options:
+    - articles
+    - episodios
+  label: category
+- type: image_gallery
