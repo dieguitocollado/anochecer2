@@ -11,6 +11,9 @@ navtitle: el programa
 
 Cada **martes a las 22:00** en [anochecer.net](anochecer.net), Radio Bonanova (107.1 FM en Barcelona) e [iVoox](https://www.ivoox.com/podcast-centauros-del-desierto_sq_f1495004_1.html "iVoox").
 
+<audio id="audio_1" controls="" preload="none" style="width:30%;padding:0;"><source src="http://radio.diegocollado.net:8000/stream.mp3?type=http&amp;nocache=143" type="audio/mpeg"></audio>
+
+
 ### El equipo
 * Pablo Benayas del Río, colaborador
 * Diego Collado, director del programa
@@ -20,7 +23,7 @@ Cada **martes a las 22:00** en [anochecer.net](anochecer.net), Radio Bonanova (1
 
 
 <div class="suscripcion" style="text-align:center;margin: auto;width: 50%">
-<a class="social-link social-rss" href="{{ "/feed.xml" | relative_url  }}" target="_blank">
+<a class="social-link social-rss" href="{{ "https://www.ivoox.com/ajx-suscribirse_jh_883108_1.html" | relative_url  }}" target="_blank">
 <i class="icon-rss"></i>
 </a>
 <a class="social-link social-twitter" href="https://www.ivoox.com/podcast-anochecer-sobre-el-mediterraneo_sq_f1883108_1.html">
