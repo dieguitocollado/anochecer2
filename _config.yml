@@ -17,7 +17,7 @@ title: Anochecer sobre el Mediterráneo - Martes a las 22:00
 author: Diego
 email: radio@anochecer.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Espacio radiofónico dedicado a la literatura universal. Cada martes a las 22:00, hora española.
+  Espacio radiofónico dedicado a la literatura universal. Cada martes a las 22:00, hora española, en anochecer.net, 107.1 FM de Barcelona y en iVoox.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://anochecer.net" # the base hostname & protocol for your site, e.g. http://example.com
 lang: es
@@ -28,6 +28,8 @@ collections:
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
