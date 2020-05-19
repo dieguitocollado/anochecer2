@@ -9,11 +9,11 @@ navtitle: el programa
      
 ## Anochecer sobre el Mediterráneo
 
-Cada **martes a las 22:00** en [anochecer.net](anochecer.net), Radio Bonanova (107.1 FM en Barcelona) e [iVoox](https://www.ivoox.com/podcast-centauros-del-desierto_sq_f1495004_1.html "iVoox").
+Cada **martes a las 22:00** en [anochecer.net](anochecer.net), [Radio Bonanova (107.1 FM en Barcelona)](http://radiobonanova.com) e [iVoox](https://www.ivoox.com/podcast-centauros-del-desierto_sq_f1495004_1.html "iVoox").
 
 <audio id="audio_1" controls="" preload="none" style="width:50%;padding:0;"><source src="http://radio.diegocollado.net:8000/stream.mp3?type=http&amp;nocache=143" type="audio/mpeg"></audio>
 
-Puede ponerse en contacto con nosotros a través de la siguiente dirección de correo electrónico: **[<i class="icon-mail"></i> radio@anochecer.net](mailto:radio@anochecer.net)**. Con mucho gusto recibiremos sus comentarios, ideas, reflexiones… queremos saber que opinan de los autores que tratamos y sus sugerencias. También pueden mandarnos recortes de libros que estén leyendo y quieran compartir con nosotros, y textos o poemas que hayan escrito ustedes.
+Puede ponerse en contacto con nosotros a través de la siguiente dirección de correo electrónico: **[<i class="icon-mail"></i> radio@anochecer.net](mailto:radio@anochecer.net)**. Con mucho gusto recibiremos sus comentarios, ideas, reflexiones, etc. Queremos saber qué opinan de los autores que tratamos y escucharemos sus sugerencias. También pueden mandarnos recortes de libros que estén leyendo y quieran compartir con nosotros, y textos o poemas que hayan escrito ustedes.
 
 ### El equipo
 * Pablo Benayas del Río, colaborador

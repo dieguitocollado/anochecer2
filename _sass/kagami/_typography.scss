@@ -49,6 +49,7 @@ article {
 
   p {
     hanging-punctuation: allow-end; // no browser supports this rule
+	text-align: justify;
   }
 
   .aside, .sidenote, .side-note {
