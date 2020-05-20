@@ -44,6 +44,8 @@ Para recibir actualizaciones y recordatorios, así como los episodios para su es
 
 <!--End mc_embed_signup-->
 
+También puede seguir el podcast en varias plataformas disponibles:
+
 <div class="suscripcion" style="text-align:center;margin: auto;width: 50%">
 <a class="social-link social-rss" style="border-bottom: none;" href="{{ "https://anochecer.net/index.xml" | relative_url  }}" target="_blank">
 <i class="icon-rss"></i>
