@@ -21,6 +21,20 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://anochecer.net" # the base hostname & protocol for your site, e.g. http://example.com
 lang: es
+
+podcast_url: https://anochecer.net
+podcast_album_art: /uploads/podcast.png
+podcast_title: Anochecer sobre el Mediterráneo
+podcast_owner: Diego Collado
+podcast_email: radio@anochecer.net
+podcast_category: Arts
+podcast_subcategory_one: Books
+podcast_explicit: "no"
+podcast_author: Diego Collado y Pablo Benayas del Río
+podcast_description: Espacio radiofónico dedicado a la literatura universal. Cada martes a las 22:00, hora española, en anochecer.net, 107.1 FM de Barcelona y en iVoox.
+podcast_summary: Pablo Benayas del Río y Diego Collado se adentran cada semana en las obras de diferentes autores a través de los siglos y literaturas, algunos de los cuales han sido olvidados o ninguneados por la academia. Espacio radiofónico dedicado a la literatura universal. Cada martes a las 22:00, hora española, en anochecer.net, 107.1 FM de Barcelona y en iVoox.
+podcast_subtitle: Espacio radiofónico dedicado a la literatura universal.
+
 collections:
   category:
     output: true

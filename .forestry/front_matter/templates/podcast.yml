@@ -21,6 +21,6 @@ fields:
       type: simple
     options:
     - articles
-    - episodios
+    - podcast
   label: category
 - type: image_gallery
