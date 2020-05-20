@@ -16,8 +16,9 @@ Cada **martes a las 22:00** en [anochecer.net](anochecer.net), [Radio Bonanova (
 Puede ponerse en contacto con nosotros a través de la siguiente dirección de correo electrónico: **[<i class="icon-mail"></i> radio@anochecer.net](mailto:radio@anochecer.net)**. Con mucho gusto recibiremos sus comentarios, ideas, reflexiones, etc. Queremos saber qué opinan de los autores que tratamos y escucharemos sus sugerencias. También pueden mandarnos recortes de libros que estén leyendo y quieran compartir con nosotros, y textos o poemas que hayan escrito ustedes mismos.
 
 ### El equipo
-* **Pablo Benayas del Río**, colaborador
-* **Diego Collado**, director del programa
+* **Diego Collado**, co-director del programa
+* **Pablo Benayas del Río**, co-director del programa
+
 
 ---
 ### Suscríbase al podcast
