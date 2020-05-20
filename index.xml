@@ -28,6 +28,7 @@ layout: null
 {% for post in site.posts %}
         <item>
             <title>{{ post.title | xml_escape }}</title>
+		<itunes:title>{{ post.title | xml_escape }}</itunes:title>
             <itunes:author>{{ site.author }}</itunes:author>
             <itunes:subtitle>{{ site.title | xml_escape }}: {{ post.title | xml_escape }}</itunes:subtitle>
             <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
