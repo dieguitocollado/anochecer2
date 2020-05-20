@@ -21,6 +21,8 @@ group :jekyll_plugins do
   gem "jekyll-feed"
  
 gem "jekyll", ">= 4.0.1"
+gem "rubyzip", ">= 1.3.0"
+
 
 
 end
