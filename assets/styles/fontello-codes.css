@@ -1,0 +1,7 @@
+
+.icon-edit:before { content: '\e800'; } /* '' */
+.icon-mail:before { content: '\e801'; } /* '' */
+.icon-itunes:before { content: '\e802'; } /* '' */
+.icon-rss:before { content: '\f09e'; } /* '' */
+.icon-spotify:before { content: '\f1bc'; } /* '' */
+.icon-podcast:before { content: '\f2ce'; } /* '' */
