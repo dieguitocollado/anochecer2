@@ -20,7 +20,8 @@ Puede ponerse en contacto con nosotros a través de la siguiente dirección de c
 * **Diego Collado**, director del programa
 
 ---
-### Suscríbase
+### Suscríbase al podcast
+Para recibir actualizaciones y recordatorios, así como los episodios para su escucha bajo demanda, rellene el formulario a continuación con su dirección de correo electrónico.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
@@ -32,11 +33,10 @@ Puede ponerse en contacto con nosotros a través de la siguiente dirección de c
 <div id="mc_embed_signup">
 <form action="https://anochecer.us18.list-manage.com/subscribe/post?u=5890a72931bf75f4a7a99a770&amp;id=e6680ab2e2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Suscríbase al podcast</label>
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="correo electrónico" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_5890a72931bf75f4a7a99a770_e6680ab2e2" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input type="submit" value="Suscribirse" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
