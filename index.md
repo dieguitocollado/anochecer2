@@ -57,7 +57,7 @@ Para recibir actualizaciones y recordatorios, así como los episodios para su es
 ### Añada un recordatorio en su calendario
 Para no perderse la emisión en directo de "Anochecer sobre el Mediterráneo", añada un recordatorio haciendo clic en el botón a continuación:
 <div title="Add to Calendar" class="addeventatc">
-    Añadir a calendario
+    Añadir a su calendario
     <span class="start">05/26/2020 10:00 PM</span>
     <span class="timezone">Europe/Paris</span>
     <span class="title">Anochecer sobre el Mediterráneo, en directo</span>
