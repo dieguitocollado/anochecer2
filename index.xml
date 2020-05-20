@@ -23,6 +23,11 @@ layout: null
         <itunes:category text="Arts">
             <itunes:category text="Books" />
         </itunes:category> 
+	   <itunes:category text="Society & Culture">
+            <itunes:category text="Philosophy" />
+        </itunes:category>
+	<itunes:category text="History">
+        </itunes:category>    
         <itunes:explicit>no</itunes:explicit>
 		
 {% for post in site.posts %}
