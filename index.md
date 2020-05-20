@@ -63,6 +63,8 @@ Para no perderse la emisión en directo de "Anochecer sobre el Mediterráneo", a
     <span class="title">Anochecer sobre el Mediterráneo, en directo</span>
     <span class="description">No se pierda la emisión de "Anochecer sobre el Mediterráneo", en directo a través de anochecer.net y en el dial 107.1 FM de Barcelona. Cada martes a las 22:00, hora española.</span>
     <span class="location">El éter</span>
+	<span class="recurring">FREQ=WEEKLY;BYDAY=TU;INTERVAL=1</span>
+	<span class="alarm_reminder">15</span>
 </div>
 
 ---
