@@ -22,6 +22,12 @@ group :jekyll_plugins do
  
 gem "jekyll", ">= 4.0.1"
 gem "rubyzip", ">= 1.3.0"
+gem "nokogiri", ">= 1.10.8"
+gem "ffi", ">= 1.9.24"
+spec.add_dependency "rake", ">= 12.3.3"
+
+
+
 
 
 
