@@ -54,7 +54,7 @@ Para recibir actualizaciones y recordatorios, así como los episodios para su es
 </div>
 
 ---
-### Añada un recordatorio en su calendario
+### Añada un recordatorio a su calendario
 Para no perderse la emisión en directo de "Anochecer sobre el Mediterráneo", añada un recordatorio haciendo clic en el botón a continuación:
 <div title="Add to Calendar" class="addeventatc">
     Añadir a su calendario
