@@ -23,7 +23,7 @@ url: "https://anochecer.net" # the base hostname & protocol for your site, e.g. 
 lang: es
 
 podcast_url: https://anochecer.net
-podcast_album_art: /uploads/podcast.png
+podcast_album_art: /uploads/podcast.jpg
 podcast_title: Anochecer sobre el Mediterráneo
 podcast_owner: Diego Collado
 podcast_email: radio@anochecer.net
