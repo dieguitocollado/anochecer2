@@ -20,7 +20,6 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed"
  
-gem "jekyll", ">= 4.0.1"
 gem "rubyzip", ">= 1.3.0"
 gem "nokogiri", ">= 1.10.8"
 gem "ffi", ">= 1.9.24"
