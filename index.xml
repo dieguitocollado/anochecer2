@@ -20,9 +20,8 @@ layout: null
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/uploads/podcast.jpg" />
-		<itunes:category text="Arts" />
-		</itunes:category> 
-		<itunes:category text="Books" />
+        <itunes:category text="Arts">
+            <itunes:category text="Books" />
         </itunes:category> 
         <itunes:explicit>no</itunes:explicit>
 		
