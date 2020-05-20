@@ -45,16 +45,16 @@ Para recibir actualizaciones y recordatorios, así como los episodios para su es
 <!--End mc_embed_signup-->
 
 <div class="suscripcion" style="text-align:center;margin: auto;width: 50%">
-<a class="social-link social-rss" href="{{ "https://anochecer.net/index.xml" | relative_url  }}" target="_blank">
+<a class="social-link social-rss" style="border-bottom: none;" href="{{ "https://anochecer.net/index.xml" | relative_url  }}" target="_blank">
 <i class="icon-rss"></i>
 </a>
-<a class="social-link social-twitter" href="https://open.spotify.com/show/2wNf8pLzuHbjQ68Z1LGxZH?si=O6_qNkpAQGyBPSxxoGIH3Q">
+<a class="social-link social-twitter" style="border-bottom: none;" href="https://open.spotify.com/show/2wNf8pLzuHbjQ68Z1LGxZH?si=O6_qNkpAQGyBPSxxoGIH3Q">
 <i class="icon-spotify"></i>
 </a>
-<a class="social-link social-twitter" href="https://anochecer.net">
+<a class="social-link social-twitter" style="border-bottom: none;" href="https://anochecer.net">
 <i class="icon-itunes"></i>
 </a>
-<a class="social-link social-twitter" href="https://www.ivoox.com/podcast-anochecer-sobre-el-mediterraneo_sq_f1883108_1.html">
+<a class="social-link social-twitter" style="border-bottom: none;" href="https://www.ivoox.com/podcast-anochecer-sobre-el-mediterraneo_sq_f1883108_1.html">
 <i class="icon-podcast"></i>
 </a>
 </div>
