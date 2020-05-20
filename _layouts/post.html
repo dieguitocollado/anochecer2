@@ -9,18 +9,13 @@ layout: default
     <div class="post-content" itemprop="articleBody">     
     <p class="post-meta">Hoy participan {{ page.voices }}</p>
     
-    <div class="container center-content">
-    <div class="seven columns">
 	<img src="{{ page.image }}" alt="{{ page.imgdesc }}">
 	<br>
     <audio controls>
         <source src="{{ page.file }}" type="audio/mp3">
     </audio>
-    </div>
-    <div class="four columns center-content">
     <a href="{{ site.baseurl }}{{ page.file }}" class="button u-full-height" download="{{ page.title }}.mp3">Descarga el episodio</a>
-    </div>
-        </div>
+
 <div>
     {{ content }}
     
