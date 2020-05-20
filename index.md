@@ -4,7 +4,7 @@ title: Sobre el programa
 cover_url: /fondo.jpg
 position: 1
 navlevel: header
-navtitle: el programa
+navtitle: El programa
 ---
      
 ## Anochecer sobre el Mediterráneo
