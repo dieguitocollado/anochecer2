@@ -1,10 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,700|Press+Start+2P');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,700&display=swap|Press+Start+2P');
 
 @font-face {
   font-family: "Kagami SC";
   src: local("Songti SC Regular"), local(STSongti-SC-Regular);
   font-weight: normal;
   font-style: normal;
+  font-display: swap
 }
 
 @font-face {
@@ -12,6 +13,7 @@
   src: local("Songti SC Bold"), local(STSongti-SC-Bold);
   font-weight: bold;
   font-style: normal;
+  font-display: swap
 }
 
 // @font-face {
@@ -33,6 +35,7 @@
   src: local("Songti TC Regular"), local(STSongti-TC-Regular);
   font-weight: normal;
   font-style: normal;
+  font-display: swap
 }
 
 @font-face {
@@ -40,6 +43,7 @@
   src: local("Songti TC Bold"), local(STSongti-TC-Bold);
   font-weight: bold;
   font-style: normal;
+  font-display: swap
 }
 
 @font-face {
@@ -48,7 +52,8 @@
        local("Segoe UI Emoji"),    // Windows 8.1
        local("Segoe UI Symbol"),   // Windows 7
        local("Noto Color Emoji"),  // Android & Linux
-       local("Android Emoji");     // Linux
+       local("Android Emoji");
+  font-display: swap// Linux
 }
 
 @mixin font-sans {
