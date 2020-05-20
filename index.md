@@ -53,6 +53,17 @@ Para recibir actualizaciones y recordatorios, así como los episodios para su es
 </a>
 </div>
 
+---
+### Añada un recordatorio en su calendario
+Para no perderse la emisión en directo de "Anochecer sobre el Mediterráneo", añada un recordatorio haciendo clic en el botón a continuación:
+<div title="Add to Calendar" class="addeventatc">
+    Añadir a calendario
+    <span class="start">05/26/2020 10:00 PM</span>
+    <span class="timezone">Europe/Paris</span>
+    <span class="title">Anochecer sobre el Mediterráneo, en directo</span>
+    <span class="description">No se pierda la emisión de "Anochecer sobre el Mediterráneo", en directo a través de anochecer.net y en el dial 107.1 FM de Barcelona. Cada martes a las 22:00, hora española.</span>
+    <span class="location">El éter</span>
+</div>
 
 ---
 ### Programas anteriores
