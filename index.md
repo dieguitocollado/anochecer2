@@ -9,7 +9,7 @@ navtitle: El programa
      
 ## Anochecer sobre el Mediterráneo
 
-Cada **martes a las 22:00** en [anochecer.net](anochecer.net), [Radio Bonanova](http://radiobonanova.com)(107.1 FM en Barcelona) e [iVoox](https://www.ivoox.com/podcast-centauros-del-desierto_sq_f1495004_1.html "iVoox").
+Cada **martes a las 22:00** en [anochecer.net](anochecer.net), [Radio Bonanova](http://radiobonanova.com)(107.1 FM en Barcelona) e [iVoox](https://www.ivoox.com/podcast-anochecer-sobre-el-mediterraneo_sq_f1883108_1.html "iVoox").
 
 <audio id="audio_1" controls="" preload="none" style="width:100%;padding:0;"><source src="http://radio.diegocollado.net:8000/stream.mp3?type=http&amp;nocache=143" type="audio/mpeg"></audio>
 
@@ -78,6 +78,6 @@ Para no perderse la emisión en directo de "Anochecer sobre el Mediterráneo", a
 ---
 ### Programas anteriores
 
-Para escuchar los programas anteriores, puede utilizar el reproductor a continuación, hacer click [aquí](/bitacora/ "Cuaderno de bitácora") o en 'Cuaderno de bitácora', en la barra de navegación superior.
+Para escuchar los programas anteriores, puede utilizar el reproductor a continuación, hacer click [aquí](/bitacora "Cuaderno de bitácora") o en 'Cuaderno de bitácora', en la barra de navegación superior.
 
 <iframe src="https://www.ivoox.com/player_es_podcast_883108_1.html" width="100%" style="border: 1px solid #D7D7D7;" height="440" frameborder="0" allowfullscreen="0" scrolling="no" ></iframe>
