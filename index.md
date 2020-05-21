@@ -53,7 +53,7 @@ También puede seguir el podcast en varias plataformas disponibles:
 <a class="social-link social-twitter" style="border-bottom: none;" href="https://open.spotify.com/show/2wNf8pLzuHbjQ68Z1LGxZH?si=O6_qNkpAQGyBPSxxoGIH3Q">
 <i class="icon-spotify"></i>
 </a>
-<a class="social-link social-twitter" style="border-bottom: none;" href="https://anochecer.net">
+<a class="social-link social-twitter" style="border-bottom: none;" href="https://podcasts.apple.com/es/podcast/anochecer-sobre-el-mediterr%C3%A1neo/id1514429925 ">
 <i class="icon-itunes"></i>
 </a>
 <a class="social-link social-twitter" style="border-bottom: none;" href="https://www.ivoox.com/podcast-anochecer-sobre-el-mediterraneo_sq_f1883108_1.html">
