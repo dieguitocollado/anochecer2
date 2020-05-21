@@ -9,7 +9,7 @@ navtitle: El programa
      
 ## Anochecer sobre el Mediterráneo
 
-Cada **martes a las 22:00** en [anochecer.net](anochecer.net), [Radio Bonanova](http://radiobonanova.com)(107.1 FM en Barcelona) e [iVoox](https://www.ivoox.com/podcast-anochecer-sobre-el-mediterraneo_sq_f1883108_1.html "iVoox").
+Cada **martes a las 22:00** en [anochecer.net](anochecer.net), [Radio Bonanova](http://radiobonanova.com)(107.1 FM en Barcelona), [Apple Podcasts](https://podcasts.apple.com/es/podcast/anochecer-sobre-el-mediterr%C3%A1neo/id1514429925 "Apple Podcasts"), [Spotify](https://open.spotify.com/show/2wNf8pLzuHbjQ68Z1LGxZH?si=O6_qNkpAQGyBPSxxoGIH3Q "Spotify") e [iVoox](https://www.ivoox.com/podcast-anochecer-sobre-el-mediterraneo_sq_f1883108_1.html "iVoox").
 
 <audio id="audio_1" controls="" preload="none" style="width:100%;padding:0;"><source src="http://radio.diegocollado.net:8000/stream.mp3?type=http&amp;nocache=143" type="audio/mpeg"></audio>
 
@@ -53,7 +53,7 @@ También puede seguir el podcast en varias plataformas disponibles:
 <a class="social-link social-twitter" style="border-bottom: none;" href="https://open.spotify.com/show/2wNf8pLzuHbjQ68Z1LGxZH?si=O6_qNkpAQGyBPSxxoGIH3Q">
 <i class="icon-spotify"></i>
 </a>
-<a class="social-link social-twitter" style="border-bottom: none;" href="https://podcasts.apple.com/es/podcast/anochecer-sobre-el-mediterr%C3%A1neo/id1514429925 ">
+<a class="social-link social-twitter" style="border-bottom: none;" href="https://podcasts.apple.com/es/podcast/anochecer-sobre-el-mediterr%C3%A1neo/id1514429925">
 <i class="icon-itunes"></i>
 </a>
 <a class="social-link social-twitter" style="border-bottom: none;" href="https://www.ivoox.com/podcast-anochecer-sobre-el-mediterraneo_sq_f1883108_1.html">
