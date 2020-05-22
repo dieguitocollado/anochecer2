@@ -38,7 +38,7 @@ layout: null
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
             <itunes:duration>{{ post.duration }}</itunes:duration>
             <itunes:explicit>{{ post.explicit }}</itunes:explicit>
-            <description>{{ post.summary | xml_escape }} {{ post.description | xml_escape }}.</description>
+            <description>{{ post.summary | xml_escape }} {{ post.description | xml_escape }}</description>
             <itunes:keywords>{{ post.keywords }}</itunes:keywords>
             <itunes:block>{{ post.block }}</itunes:block>
 		</item>
