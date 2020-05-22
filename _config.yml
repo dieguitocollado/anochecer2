@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Espacio radiofónico dedicado a la literatura universal. Cada martes a las 22:00, hora española, en anochecer.net, 107.1 FM de Barcelona y en iVoox.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://anochecer.net" # the base hostname & protocol for your site, e.g. http://example.com
-lang: es_ES
+lang: es
 subtitle: Espacio radiofónico dedicado a la literatura universal.
 
 collections:
