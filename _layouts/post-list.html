@@ -36,6 +36,23 @@ layout: default
   {% endif %}
   {% for post in posts %}
   {% assign posts = posts | append: " " | append: post.path %}
+  {% assign m = page.date | date: "%-m" %}
+	{{ page.date | date: "%-d" }}
+		{% case m %}
+  {% when '1' %}Enero
+  {% when '2' %}Febrero
+  {% when '3' %}Marzo
+  {% when '4' %}Abril
+  {% when '5' %}Mayo
+  {% when '6' %}Junio
+  {% when '7' %}Julio
+  {% when '8' %}Agosto
+  {% when '9' %}Septiembre
+  {% when '10' %}Octubre
+  {% when '11' %}Noviembre
+  {% when '12' %}Diciembre
+{% endcase %}
+{{ page.date | date: "%Y" }}
   {% endfor %}
   {% endfor %}
   {% if posts %}
@@ -46,12 +63,7 @@ layout: default
   {% endif %}
   {% for post in posts %}
   <li class="post-list-item" data-tags="{{ post.tags | join: " " }}">
-    <a class="post-item-link" href="{{ post.url | relative_url }}" data-date="{% capture i18n_date %}
-{{ page.date | date: "%-d" }}
-{% assign m = page.date | date: "%-m" | minus: 1 %}
-{{ site.data.es.months[m] }}
-{{ page.date | date: "%Y" }}
-{% endcapture %}">
+    <a class="post-item-link" href="{{ post.url | relative_url }}" data-date="{{ post.date | date: "%m-%d"  }}">
       {{ post.title | escape }}
     </a>
     <div class="post-item-meta">
