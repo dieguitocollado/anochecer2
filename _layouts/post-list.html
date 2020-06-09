@@ -36,7 +36,21 @@ layout: default
   {% endif %}
   {% for post in posts %}
   {% assign posts = posts | append: " " | append: post.path %}
-  {% assign m = post.date | date: "%-m" %}
+  {% endfor %}
+  {% endfor %}
+  {% if posts %}
+  {% assign posts = posts | split: " " | sort | uniq %}
+  {% assign posts = site.posts | where_exp: "post", "posts contains post.path" %}
+  {% else %}
+  {% assign posts = site.posts %}
+  {% endif %}
+  {% for post in posts %}
+  <li class="post-list-item" data-tags="{{ post.tags | join: " " }}">
+    <a class="post-item-link" href="{{ post.url | relative_url }}" data-date="{{ post.date | date: "%m-%d"  }}">
+      {{ post.title | escape }}
+    </a>
+    <div class="post-item-meta">
+       {% assign m = post.date | date: "%-m" %}
 	{{ post.date | date: "%-d" }}
 		{% case m %}
   {% when '1' %}Enero
@@ -53,21 +67,6 @@ layout: default
   {% when '12' %}Diciembre
 {% endcase %}
 {{ post.date | date: "%Y" }}
-  {% endfor %}
-  {% endfor %}
-  {% if posts %}
-  {% assign posts = posts | split: " " | sort | uniq %}
-  {% assign posts = site.posts | where_exp: "post", "posts contains post.path" %}
-  {% else %}
-  {% assign posts = site.posts %}
-  {% endif %}
-  {% for post in posts %}
-  <li class="post-list-item" data-tags="{{ post.tags | join: " " }}">
-    <a class="post-item-link" href="{{ post.url | relative_url }}" data-date="{{ post.date | date: "%m-%d"  }}">
-      {{ post.title | escape }}
-    </a>
-    <div class="post-item-meta">
-      {{ post.date | date: "%B %-d, %Y" }}
     </div>
   </li>
   {% endfor %}
