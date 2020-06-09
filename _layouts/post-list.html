@@ -36,8 +36,8 @@ layout: default
   {% endif %}
   {% for post in posts %}
   {% assign posts = posts | append: " " | append: post.path %}
-  {% assign m = page.date | date: "%-m" %}
-	{{ page.date | date: "%-d" }}
+  {% assign m = post.date | date: "%-m" %}
+	{{ post.date | date: "%-d" }}
 		{% case m %}
   {% when '1' %}Enero
   {% when '2' %}Febrero
@@ -52,7 +52,7 @@ layout: default
   {% when '11' %}Noviembre
   {% when '12' %}Diciembre
 {% endcase %}
-{{ page.date | date: "%Y" }}
+{{ post.date | date: "%Y" }}
   {% endfor %}
   {% endfor %}
   {% if posts %}
