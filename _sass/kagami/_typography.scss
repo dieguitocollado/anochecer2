@@ -32,7 +32,6 @@ article {
 
   h2, h3, h4, h5, h6 {
     &::before {
-      content: "#";
       display: inline-block;
       text-align: right;
       width: font-size(5);
@@ -42,10 +41,6 @@ article {
     }
   }
 
-  h3::before { content: "##"; }
-  h4::before { content: "###"; }
-  h5::before { content: "####"; }
-  h6::before { content: "#####"; }
 
   p {
     hanging-punctuation: allow-end; // no browser supports this rule
