@@ -21,6 +21,11 @@ Puede ponerse en contacto con nosotros a través de la siguiente dirección de c
 
 
 ---
+### Sorteo del libro **"El piloto ciego"** de Giovanni Papini (final de temporada)
+
+Tras finalizar el plazo de participación el diecinueve de junio a las 22:00, podemos anunciar que el ganador del sorteo es Eduard de Vidal. Para más información, puede dirigirse [a la página del episodio final de temporada](https://anochecer.net/podcast/2020/06/16/ep-12.html). Agradecemos profundamente a la [librería Documenta](https://www.documenta-bcn.com/) por colaborar con nosotros en este sorteo. 
+
+---
 ### Suscríbase al podcast
 Para recibir actualizaciones y recordatorios, así como los episodios para su escucha bajo demanda, rellene el formulario a continuación con su dirección de correo electrónico.
 
