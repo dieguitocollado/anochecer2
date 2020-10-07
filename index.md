@@ -9,7 +9,7 @@ navtitle: El programa
      
 ## Anochecer sobre el Mediterráneo
 
-Espacio radiofónico dedicado a la literatura universal. Cada **martes a las 22:00** en [anochecer.net](anochecer.net) y [Radio Bonanova](http://radiobonanova.com) (107.1 FM en Barcelona), y bajo demanda, tras la emisión del programa, en [Apple Podcasts](https://podcasts.apple.com/es/podcast/anochecer-sobre-el-mediterr%C3%A1neo/id1514429925 "Apple Podcasts"), [Spotify](https://open.spotify.com/show/2wNf8pLzuHbjQ68Z1LGxZH?si=O6_qNkpAQGyBPSxxoGIH3Q "Spotify"), [TuneIn](https://tunein.com/podcasts/Arts--Culture-Podcasts/Anochecer-sobre-el-Mediterraneo-p1326875/) e [iVoox](https://www.ivoox.com/podcast-anochecer-sobre-el-mediterraneo_sq_f1883108_1.html "iVoox").
+Espacio radiofónico dedicado a la literatura universal. Cada **miércoles a las 22:00** en [anochecer.net](anochecer.net) y [Radio Bonanova](http://radiobonanova.com) (107.1 FM en Barcelona), y bajo demanda, tras la emisión del programa, en [Apple Podcasts](https://podcasts.apple.com/es/podcast/anochecer-sobre-el-mediterr%C3%A1neo/id1514429925 "Apple Podcasts"), [Spotify](https://open.spotify.com/show/2wNf8pLzuHbjQ68Z1LGxZH?si=O6_qNkpAQGyBPSxxoGIH3Q "Spotify"), [TuneIn](https://tunein.com/podcasts/Arts--Culture-Podcasts/Anochecer-sobre-el-Mediterraneo-p1326875/) e [iVoox](https://www.ivoox.com/podcast-anochecer-sobre-el-mediterraneo_sq_f1883108_1.html "iVoox").
 
 <audio id="audio_1" controls="" preload="none" style="width:100%;padding:0;"><source src="http://radio.diegocollado.net:8000/stream.mp3?type=http&amp;nocache=143" type="audio/mpeg"></audio>
 
@@ -71,10 +71,10 @@ También puede seguir el podcast en varias plataformas disponibles:
 Para no perderse la emisión en directo de "Anochecer sobre el Mediterráneo", añada un recordatorio haciendo clic en el botón a continuación:
 <div title="Add to Calendar" class="addeventatc">
     Añadir a su calendario
-    <span class="start">05/26/2020 10:00 PM</span>
+    <span class="start">10/07/2020 10:00 PM</span>
     <span class="timezone">Europe/Paris</span>
     <span class="title">Anochecer sobre el Mediterráneo, en directo</span>
-    <span class="description">No se pierda la emisión de "Anochecer sobre el Mediterráneo", en directo a través de anochecer.net y en el dial 107.1 FM de Barcelona. Cada martes a las 22:00, hora española.</span>
+    <span class="description">No se pierda la emisión de "Anochecer sobre el Mediterráneo", en directo a través de anochecer.net y en el dial 107.1 FM de Barcelona. Cada miércoles a las 22:00, hora española.</span>
     <span class="location">El éter</span>
 	<span class="recurring">FREQ=WEEKLY;BYDAY=TU;INTERVAL=1</span>
 	<span class="alarm_reminder">15</span>
