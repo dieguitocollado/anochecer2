@@ -19,6 +19,14 @@ Puede ponerse en contacto con nosotros a través de la siguiente dirección de c
 * **Diego Collado**, co-director del programa
 * **Pablo Benayas del Río**, co-director del programa
 
+---
+### Volvemos el 30 de marzo
+
+Habiendo dejado de emitir tras el especial de Nochevieja 2020, volveremos a las ondas el próximo 30 de marzo de 2021, celebrando un año desde el inicio del programa. Publicaremos más detalles acerca del programa a medida que se acerque la fecha de emisión.
+
+Como programa especial, no solo emitiremos en Radio "Bona Nova" (107.1 FM de Barcelona) y por Internet (esta misma página), sino que también se podrá escuchar el programa internacionalmente a través de la *onda corta* en las frecuencias *6070 kHz*, *3955 kHz* y *9670 kHz* a las 22:00 (hora española - CEST).
+
+Ofreceremos tarjetas QSL especiales a aquellos que se pongan en contacto con nosotros, ya sea por correo electrónico (radio@anochecer.net) o escribiéndo a la radio (Calle San Eusebio 54, 08006 Barcelona, España), si escuchan el programa a través de la onda corta.
 
 ---
 ### Sorteo del libro **"El piloto ciego"** de Giovanni Papini (final de temporada)
