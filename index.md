@@ -14,15 +14,13 @@ Espacio radiofónico dedicado a la literatura universal. Cada **miércoles a las
 
 #### Reproductor principal
 
-<audio id="player" controls>
-  <source src="https://live.diegocollado.net/stream" type="audio/mp3" />
-</audio>
+<audio id="audio_1" controls="" preload="none" style="width:100%;padding:0;"><source src="https://live.diegocollado.net/stream" type="audio/mpeg"></audio>
+
 
 #### Reproductor secundario
 
-<audio id="player" controls>
-  <source src="http://212.83.130.141:9009/stream" type="audio/mp3" />
-</audio>
+<audio id="audio_1" controls="" preload="none" style="width:100%;padding:0;"><source src="http://212.83.130.141:9009/stream" type="audio/mpeg"></audio>
+
 
 
 
