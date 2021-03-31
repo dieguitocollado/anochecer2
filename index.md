@@ -14,7 +14,7 @@ Espacio radiofónico dedicado a la literatura universal. Cada **miércoles a las
 
 #### Reproductor principal
 
-<audio id="js-player" controls preload="false" autoplay="false">
+<audio class="js-player" controls preload="false" autoplay="false">
   <source src="https://live.diegocollado.net/stream" type="audio/mpeg" />
 </audio>
 
